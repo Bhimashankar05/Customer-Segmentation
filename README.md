@@ -1,4 +1,4 @@
-# customer_segmentation
+# Customer-Segmentation
 
 I analyzed a dataset related to customer segmentation and performed the following steps:
 
